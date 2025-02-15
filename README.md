@@ -37,3 +37,43 @@
 - Reminder emails
 - Cancellation notifications
 - Custom messaging system (possibly)
+
+
+# Target Audience
+
+## Primary Users (Customers)
+
+- Local residents looking to book
+ - Groups organizing a gatherings
+- Regular café patrons
+
+
+## Secondary Users (Staff)
+
+- Managers
+- Front-of-house staff
+- Admin
+
+
+# Tech Stack
+
+## Frontend
+
+- React.js
+- TailwindCSS
+- React Router
+- Context API
+
+
+## Backend
+
+-Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+
+## DevOps
+
+- Git
+- Docker 
