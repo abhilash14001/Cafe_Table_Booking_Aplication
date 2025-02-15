@@ -77,3 +77,7 @@
 
 - Git
 - Docker 
+
+# Dataflow Diagram
+
+![alt text](<Dataflow Diagram.png>)
