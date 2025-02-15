@@ -81,3 +81,10 @@
 # Dataflow Diagram
 
 ![alt text](<Dataflow Diagram.png>)
+
+
+# Application Architecture Diagram
+
+![alt text](<Architecture Diagram.png>)
+
+
