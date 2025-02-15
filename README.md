@@ -97,6 +97,17 @@
 "I organize group events. I need to list special needs (high chairs easy-to-access seating) to make sure my group has what it needs."
 "As a customer, I want to get a quick booking confirmation. This will let me know for sure that I have a table."
 
+
+Example - 
+Customer: Sarah 
+Background: Marketing executive with a packed schedule, 35 
+Tech-savvy: High Visiting frequency: She comes in 2-3 times a week 
+Pain points: She struggles to manage her time and often plans at the last minute 
+
+Story Refinemen: Initial Story: "As a customer, I want to book a table online" 
+Refined Story: "As someone with a demanding job, I want to book a table online to lock in my dining plans without making phone calls" 
+Final Story: "As someone with a demanding job, I want to book a table when I'm not at work using my saved preferences to arrange client meetings without entering the same information over and over" 
+
 ## Staff Stories
 
 "I manage this café. I need to see all upcoming bookings to plan staff schedules well."
