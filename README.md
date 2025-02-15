@@ -21,6 +21,7 @@
 - Creation Of Customer Profiles
 - Booking history 
 - Password reset functionality
+- Prefrences
 
 
 ## Admin Dashboard
@@ -86,5 +87,25 @@
 # Application Architecture Diagram
 
 ![alt text](<Architecture Diagram.png>)
+
+# User Stories 
+
+## Customer Stories
+
+"I'm a busy professional. I need to book a table outside work hours to plan my meetings ahead of time."
+"I often come to this place. I'd like to keep my preferences and booking history. This will help me make quick reservations in the future."
+"I organize group events. I need to list special needs (high chairs easy-to-access seating) to make sure my group has what it needs."
+"As a customer, I want to get a quick booking confirmation. This will let me know for sure that I have a table."
+
+## Staff Stories
+
+"I manage this café. I need to see all upcoming bookings to plan staff schedules well."
+"I work here. I want to change booking details with ease. This will help me meet customer requests ."
+"I'm an admin. I want to study booking trends to improve our table layouts."
+"I'm a manager. I need to block off times for upkeep or special events. This will stop customers from booking during these times."
+
+# Wireframes 
+
+![alt text](wireframesCafeApp.png)
 
 
