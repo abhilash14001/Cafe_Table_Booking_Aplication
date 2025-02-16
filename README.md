@@ -129,6 +129,15 @@
 
 # Wireframes 
 
+## Desktop & Mobile
+
 ![alt text](wireframesCafeApp.png)
+
+## Tablet
+
+![alt text](<Tablet WireframesCafeApp.png>)
+
+
+
 
 
