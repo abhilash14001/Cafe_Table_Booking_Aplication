@@ -101,7 +101,8 @@
 Example - 
 Customer: Sarah 
 Background: Marketing executive with a packed schedule, 35 
-Tech-savvy: High Visiting frequency: She comes in 2-3 times a week 
+Tech-savvy: High 
+Visiting frequency: She comes in 2-3 times a week 
 Pain points: She struggles to manage her time and often plans at the last minute 
 
 Story Refinemen: Initial Story: "As a customer, I want to book a table online" 
@@ -114,6 +115,17 @@ Final Story: "As someone with a demanding job, I want to book a table when I'm n
 "I work here. I want to change booking details with ease. This will help me meet customer requests ."
 "I'm an admin. I want to study booking trends to improve our table layouts."
 "I'm a manager. I need to block off times for upkeep or special events. This will stop customers from booking during these times."
+
+Example - 
+Customer: Darren
+Background: Cafe Manager constantly busy, 38 
+Tech-savvy: High 
+Shift frequency: 6 days a week 
+Pain points: Too busy needs automated delagation
+
+Story Refinemen: Initial Story: "As a cafe manager, i need to see upcoming bookings to plan staff schedules well." 
+Refined Story: "As someone in a demanding role, I want to roster staff accordingly without too much guess work" 
+Final Story: "As someone in a demanding role, I want to be able to see booking trends and have special requests known before the customer arrives"
 
 # Wireframes 
 
