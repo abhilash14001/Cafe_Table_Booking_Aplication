@@ -70,13 +70,19 @@ const Register = () => {
                     </div>
                     <div className="mb-2">
                         <input
-                            type="text"
+                            type="number"
                             name="phone"
                             className={`form-control ${errors.phone ? 'is-invalid' : ''}`}
                             placeholder="Phone Number"
                             value={form.phone}
                             onChange={handleChange}
+                            onInput={(e) => {
+                                if (e.target.value.length > 10) {
+                                    e.target.value = e.target.value.slice(0, 10);
+                                }
+                            }}
                         />
+
                         {errors.phone && <div className="invalid-feedback">{errors.phone}</div>}
                     </div>
                     <div className="mb-2">
